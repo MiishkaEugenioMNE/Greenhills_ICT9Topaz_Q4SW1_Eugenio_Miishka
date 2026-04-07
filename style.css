@@ -1,0 +1,19 @@
+body {
+    background-image: url(Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block {
+    border-radius: 15px;
+    padding: 10px;
+    color: black;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 1067px;
+    background-color: rgba(32, 32, 32, 0.141);
+}
+details {
+    text-align: center;
+}
+
+
+
